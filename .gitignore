@@ -1,0 +1,7 @@
+node_modules/
+dist/
+uploads/
+keys/
+.env
+*.p12
+*.jks
